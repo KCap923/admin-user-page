@@ -1,3 +1,14 @@
 body {
   background-color: #31363F !important;
 }
+
+.form {
+  width: 450px !important;
+  height: 200px !important;
+  margin-top: 20px;
+}
+
+.table, h1 {
+  color: antiquewhite !important;
+}
+
